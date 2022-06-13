@@ -1,0 +1,17 @@
+div{
+    width: 23%;
+    height: 500px;
+    background-color: orange;
+    float: left;
+    border: 2px solid green;
+    margin: 10px;
+    border-radius: 10%;
+}
+img{
+    width: 100%;
+    height: 50%;
+    border-radius: 50%;
+}
+h1,h4,p{
+    text-align: center;
+}
